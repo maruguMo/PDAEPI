@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D3E5148B-FD24-4101-A171-6B8DB1D64391}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>PDAEPI.StartForm</StartupObject>
+    <RootNamespace>PDAEPI</RootNamespace>
+    <AssemblyName>PDAEPI</AssemblyName>
+    <ProjectTypeGuids>{68B1623D-7FB9-47D8-8664-7ECEA3297D4F};{F184B08F-C81C-45F6-A57F-5ABD9991F28F}</ProjectTypeGuids>
+    <PlatformFamilyName>PocketPC</PlatformFamilyName>
+    <PlatformID>b2c48bd2-963d-4549-9169-1fa021dce484</PlatformID>
+    <OSVersion>5.02</OSVersion>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <DeployDirSuffix>PDAEPI</DeployDirSuffix>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <NativePlatformName>Windows Mobile 6 Professional SDK</NativePlatformName>
+    <FormFactorID>
+    </FormFactorID>
+    <ApplicationIcon>pda.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>$(PlatformFamilyName)=TRUE</DefineConstants>
+    <DocumentationFile>PDAEPI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <FileAlignment>512</FileAlignment>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>$(PlatformFamilyName)=TRUE</DefineConstants>
+    <DocumentationFile>PDAEPI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <FileAlignment>512</FileAlignment>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DataGridCustomColumns, Version=1.0.4547.30413, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft\Custom DataGrid Sample\CustomDataGrid\bin\Release\DataGridCustomColumns.dll</HintPath>
+    </Reference>
+    <Reference Include="DataGridSizing, Version=1.0.3863.20206, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\PMTCTAssessment\PMTCT_Assessment\bin\Debug\DataGridSizing.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsCE.Forms" />
+    <Reference Include="Microsoft.WindowsMobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="Microsoft.WindowsMobile.Status, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+    <Reference Include="OpenNETCF, Version=2.3.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\PMTCTAssessment\PMTCT_Assessment\bin\Debug\OpenNETCF.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenNETCF.Configuration, Version=2.3.0.0, Culture=neutral, PublicKeyToken=e60dbea84bb431b7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\PMTCTAssessment\PMTCT_Assessment\bin\Debug\OpenNETCF.Configuration.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, processorArchitecture=MSIL" />
+    <Reference Include="System.Deployment, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System.Drawing, Version=3.5.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CFieldValue.vb" />
+    <Compile Include="Constants.vb" />
+    <Compile Include="DeviceStatus.Designer.vb">
+      <DependentUpon>DeviceStatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DeviceStatus.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditGrid.Designer.vb">
+      <DependentUpon>EditGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EditGrid.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MultiSelectMultiFields.Designer.vb">
+      <DependentUpon>MultiSelectMultiFields.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MultiSelectMultiFields.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MultiTypeControlsCFactory.vb" />
+    <Compile Include="SelectAction.Designer.vb">
+      <DependentUpon>SelectAction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SelectAction.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StartForm.Designer.vb">
+      <DependentUpon>StartForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StartForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SurveyFieldBase.vb" />
+    <Compile Include="SurveyFieldMultiples.vb" />
+    <Compile Include="Data.vb" />
+    <Compile Include="Device.vb" />
+    <Compile Include="EventArgs.vb" />
+    <Compile Include="frmInterfaceEng.Designer.vb">
+      <DependentUpon>frmInterfaceEng.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInterfaceEng.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmListResults.Designer.vb">
+      <DependentUpon>frmListResults.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmListResults.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmQuestionnaires.Designer.vb">
+      <DependentUpon>frmQuestionnaires.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmQuestionnaires.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Globals.vb" />
+    <Compile Include="Header.vb" />
+    <Compile Include="MultiMonthAndCheck.Designer.vb">
+      <DependentUpon>MultiMonthAndCheck.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MultiMonthAndCheck.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MultiSelectSingleFieldCFactory.vb" />
+    <Compile Include="MultiSelectSingleField.Designer.vb">
+      <DependentUpon>MultiSelectSingleField.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MultiSelectSingleField.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MultiTypeControls.Designer.vb">
+      <DependentUpon>MultiTypeControls.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MultiTypeControls.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Province.vb" />
+    <Compile Include="Questionnaire.vb" />
+    <Compile Include="Site.vb" />
+    <Compile Include="Study.vb" />
+    <Compile Include="StudyArea.vb" />
+    <Compile Include="StudyAreaCtrl.Designer.vb">
+      <DependentUpon>StudyAreaCtrl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StudyAreaCtrl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SurveyQuestion.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DeviceStatus.resx">
+      <DependentUpon>DeviceStatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditGrid.resx">
+      <DependentUpon>EditGrid.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInterfaceEng.resx">
+      <DependentUpon>frmInterfaceEng.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmListResults.resx">
+      <DependentUpon>frmListResults.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmQuestionnaires.resx">
+      <DependentUpon>frmQuestionnaires.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiMonthAndCheck.resx">
+      <DependentUpon>MultiMonthAndCheck.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiSelectMultiFields.resx">
+      <DependentUpon>MultiSelectMultiFields.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiSelectSingleField.resx">
+      <DependentUpon>MultiSelectSingleField.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MultiTypeControls.resx">
+      <DependentUpon>MultiTypeControls.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectAction.resx">
+      <DependentUpon>SelectAction.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartForm.resx">
+      <DependentUpon>StartForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudyAreaCtrl.resx">
+      <DependentUpon>StudyAreaCtrl.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="District.vb" />
+    <Content Include="pda.ico" />
+    <Content Include="PDAEPI.sdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="My Project\DataSources\Study.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CompactFramework.VisualBasic.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{F184B08F-C81C-45F6-A57F-5ABD9991F28F}">
+        <HostingProcess disable="1" />
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

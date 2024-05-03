@@ -1,0 +1,167 @@
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPISurvey.sdf
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPISurvey.exe
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPISurvey.pdb
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPISurvey.xml
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridSizing.dll
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.dll
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.Status.dll
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\OpenNETCF.Configuration.dll
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\OpenNETCF.dll
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\System.Data.SqlServerCe.dll
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.xml
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.Status.xml
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridSizing.pdb
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\ResolveAssemblyReference.cache
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.DeviceStatus.resources
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.frmInterfaceEng.resources
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.frmListResults.resources
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.frmQuestionnaires.resources
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.MultiMonthAndCheck.resources
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.MultiSelectMultiFields.resources
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.MultiSelectSingleField.resources
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.MultiTypeControls.resources
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.Resources.resources
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.SelectAction.resources
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.StartForm.resources
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.StudyAreaCtrl.resources
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.vbproj.GenerateResource.Cache
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.exe
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.xml
+G:\WLCOOLE\CODE PROJECTS\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPISurvey.pdb
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.exe
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.pdb
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.xml
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridCustomColumns.dll
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridSizing.dll
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.dll
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.Status.dll
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\OpenNETCF.Configuration.dll
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\OpenNETCF.dll
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\System.Data.SqlServerCe.dll
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridCustomColumns.pdb
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.Status.xml
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridSizing.pdb
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.xml
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\ResolveAssemblyReference.cache
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.DeviceStatus.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.EditGrid.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.frmInterfaceEng.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.frmListResults.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.frmQuestionnaires.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiMonthAndCheck.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiSelectMultiFields.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiSelectSingleField.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiTypeControls.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.Resources.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.SelectAction.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.StartForm.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.StudyAreaCtrl.resources
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.vbproj.GenerateResource.Cache
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.exe
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.xml
+H:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.pdb
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.sdf
+H:\PDAEPI\PMTCT_Assessment\bin\Debug\dll\DataGridCustomColumns.dll
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\ResolveAssemblyReference.cache
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.DeviceStatus.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.EditGrid.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.frmInterfaceEng.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.frmListResults.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.frmQuestionnaires.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiMonthAndCheck.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiSelectMultiFields.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiSelectSingleField.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiTypeControls.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.Resources.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.SelectAction.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.StartForm.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.StudyAreaCtrl.resources
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.vbproj.GenerateResource.Cache
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.exe
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.xml
+I:\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.pdb
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.sdf
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\dll\DataGridCustomColumns.dll
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.exe
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.pdb
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.xml
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridCustomColumns.dll
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridSizing.dll
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.dll
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.Status.dll
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\OpenNETCF.Configuration.dll
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\OpenNETCF.dll
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\System.Data.SqlServerCe.dll
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridCustomColumns.pdb
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.Status.xml
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridSizing.pdb
+I:\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridCustomColumns.dll
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridCustomColumns.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridSizing.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.DeviceStatus.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.EditGrid.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.frmInterfaceEng.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.frmListResults.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.frmQuestionnaires.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiMonthAndCheck.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiSelectMultiFields.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiSelectSingleField.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiTypeControls.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.SelectAction.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.StartForm.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.StudyAreaCtrl.resources
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.vbproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.exe
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.xml
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.pdb
+C:\Users\Admin\Documents\Visual Studio 2008\Projects\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.sdf
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.sdf
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.exe
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.pdb
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\PDAEPI.xml
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.dll
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.Status.dll
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.dll
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridCustomColumns.pdb
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.PocketOutlook.xml
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.Status.xml
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\DataGridSizing.pdb
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\bin\Debug\Microsoft.WindowsMobile.xml
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.DeviceStatus.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.EditGrid.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.frmInterfaceEng.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.frmListResults.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.frmQuestionnaires.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiMonthAndCheck.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiSelectMultiFields.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiSelectSingleField.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.MultiTypeControls.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.Resources.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.SelectAction.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.StartForm.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.StudyAreaCtrl.resources
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.vbproj.GenerateResource.Cache
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.exe
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.xml
+C:\Users\Erastus\Desktop\PDAEPI\PMTCT_Assessment\obj\Debug\PDAEPI.pdb

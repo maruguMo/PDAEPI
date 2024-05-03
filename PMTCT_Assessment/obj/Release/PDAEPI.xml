@@ -1,0 +1,80 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PDAEPI
+</name>
+</assembly>
+<members>
+<member name="P:PDAEPI.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.BeginningOfQuestionnaire">
+	<summary>
+  Looks up a localized string similar to 1.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.connectionString">
+	<summary>
+  Looks up a localized string similar to Data Source = \Program Files\PDAEPI\PDAEPI.sdf; password = 'password'.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.DistrictsTable">
+	<summary>
+  Looks up a localized string similar to Districts.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.EndOfQuestionnaire">
+	<summary>
+  Looks up a localized string similar to -1.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.ProvincesTable">
+	<summary>
+  Looks up a localized string similar to Provinces.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.QTablesTable">
+	<summary>
+  Looks up a localized string similar to QTables.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.QuestionnaireSections">
+	<summary>
+  Looks up a localized string similar to QuestionnaireSections.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.QuestionnaireSubsections">
+	<summary>
+  Looks up a localized string similar to SubSections.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.QuestionsTable">
+	<summary>
+  Looks up a localized string similar to Questionnaire.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.ResponsesTable">
+	<summary>
+  Looks up a localized string similar to QuestionResponses.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.SitesTable">
+	<summary>
+  Looks up a localized string similar to Sites.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.SkipsTable">
+	<summary>
+  Looks up a localized string similar to SkipSequence.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.StudyTable">
+	<summary>
+  Looks up a localized string similar to Study.
+</summary>
+</member><member name="P:PDAEPI.My.Resources.Resources.TableFieldMappingTable">
+	<summary>
+  Looks up a localized string similar to TableFieldMapping.
+</summary>
+</member><member name="T:PDAEPI.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
